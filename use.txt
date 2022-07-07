@@ -1,0 +1,1 @@
+python yolov5\detect_vid.py --weights yolov5\runs\train\exp\weights\best.pt --img 320 --conf 0.35 --source data\test\test.mp4
